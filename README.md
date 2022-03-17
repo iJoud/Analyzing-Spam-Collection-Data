@@ -1,7 +1,7 @@
 # Analyzing Spam Collection Data
 Built spam detector model with Naïve Bayes and NLP techniques, using Scikit-learn, and NLTK on a dataset of spam messages.
 
-This is an assignment I've completed on simplilearn Data Science with Python Course.
+This is an assignment I've completed on [Simplilearn](https://github.com/Simplilearn-Edu) Data Science with Python Course.
 
 ## Followed Approach: 
 1. Eliminate the punctuation marks and stopwords from the given dataset
