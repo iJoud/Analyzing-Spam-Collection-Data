@@ -6,9 +6,9 @@ This is an assignment I've completed on simplilearn Data Science with Python Cou
 ## Followed Approach: 
 1. Eliminate the punctuation marks and stopwords from the given dataset
 2. Apply feature extraction using **bag of words**, and **Tf-idf transformer**
-3. Detect Spam with Naïve Bayes model
+3. **Train ML model**; Detect Spam with Naïve Bayes model
 
-**Finally**, I've test model predictions against actual responses e.g. in following code snippet I choose randomly the 84th message from the dataset, 
+**Finally**, I've tested model predictions against actual responses e.g. in following code snippet I choose randomly the 84th message from the dataset, 
 apply bag of words and  Tf-idf transformer. Then, in the print statement print predicted data using the trained spam detector model followed by the actual response. 
 
 ````Python
